@@ -2,6 +2,7 @@ application: wongkeichor-gce
 version: 1.1
 runtime: php
 api_version: 1
+threadsafe: true
 
 handlers:
 - url: /stylesheets
